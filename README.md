@@ -7,3 +7,6 @@ This repo includes lecture notes and materials from my Finite Element Analysis (
 - [Introduction to the Stiffness Displacement Method](https://github.com/leahgaeta/FEA/raw/master/Finite%20Element%20Method%20-%20Introduction%20to%20the%20Stiffness%20(Displacement)%20Method.pdf)
 - [Global Stiffness Matrix](https://github.com/leahgaeta/FEA/raw/master/Global%20Stiffness%20Matrix.pdf)
 - [Minimum Potential Energy](https://github.com/leahgaeta/FEA/raw/master/Minimum%20Potential%20Energy.pdf)
+- [Weighted Residuals Methods](https://github.com/leahgaeta/FEA/raw/master/Weighted%20Residuals%20Methods.pdf)
+- [Isoparametric Elements & Mapping](https://github.com/leahgaeta/FEA/raw/master/Isoparametric%20Elements%20%26%20Mapping.pdf)
+- [Numerical Integration](https://github.com/leahgaeta/FEA/raw/master/Numerical%20Integration.pdf)
