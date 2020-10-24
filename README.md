@@ -10,3 +10,4 @@ This repo includes lecture notes and materials from my Finite Element Analysis (
 - [Weighted Residuals Methods](https://github.com/leahgaeta/FEA/raw/master/Weighted%20Residuals%20Methods.pdf)
 - [Isoparametric Elements & Mapping](https://github.com/leahgaeta/FEA/raw/master/Isoparametric%20Elements%20%26%20Mapping.pdf)
 - [Numerical Integration](https://github.com/leahgaeta/FEA/raw/master/Numerical%20Integration.pdf)
+- [Putting it All Together (So far)](https://github.com/leahgaeta/FEA/raw/master/FEA%20Putting%20It%20All%20Together.pdf)
