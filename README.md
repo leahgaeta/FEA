@@ -11,3 +11,7 @@ This repo includes lecture notes and materials from my Finite Element Analysis (
 - [Isoparametric Elements & Mapping](https://github.com/leahgaeta/FEA/raw/master/Isoparametric%20Elements%20%26%20Mapping.pdf)
 - [Numerical Integration](https://github.com/leahgaeta/FEA/raw/master/Numerical%20Integration.pdf)
 - [Putting it All Together (So far)](https://github.com/leahgaeta/FEA/raw/master/FEA%20Putting%20It%20All%20Together.pdf)
+- [1D Dynamics](https://github.com/leahgaeta/FEA/raw/master/FEM%20Dynamics.pdf)
+- 2D Finite Elements
+- Other 2D Finite Elements
+- 4-Node Isoparametric Quadrilateral Element 
