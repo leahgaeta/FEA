@@ -18,3 +18,7 @@ This repo includes lecture notes and materials from my Finite Element Analysis (
 - [9-Node Quadratic Element](https://github.com/leahgaeta/FEA/raw/master/9-Node%20Quadratic%20Element.pdf)
 - [Parabolic Differential Equations](https://github.com/leahgaeta/FEA/raw/master/Parabolic%20Differential%20Equations.pdf)
 - [Nonlinear FEM & Nonlinear Continuum Mechanics](https://github.com/leahgaeta/FEA/raw/master/Nonlinear%20FEM%20%26%20Nonlinear%20Continuum%20Mechanics.pdf)
+- [Nonlinear Continuum & FEM](https://github.com/leahgaeta/FEA/raw/master/Nonlinear%20Continuum%20%2B%20Finite%20Elements.pdf)
+- [Nonlinear FEM Strong & Weak Forms](https://github.com/leahgaeta/FEA/raw/master/Nonlinear%20FEM%20Strong%20%26%20Weak%20Forms.pdf)
+- [Solution Procedures for Nonlinear FEM](https://github.com/leahgaeta/FEA/raw/master/Solution%20Procedures%20for%20Nonlinear%20FEM.pdf)
+- [Thermal Stresses](https://github.com/leahgaeta/FEA/raw/master/Thermal%20Stresses.pdf)
