@@ -1,5 +1,5 @@
 # Finite Element Analysis
-This repo includes lecture notes and materials from my Finite Element Analysis (FEA) course, in order of topics covered. Note that this is an ongoing course and the readme will be updated throughout the semester. The goal is to have notes & study guides added weekly.
+This repo includes lecture notes and materials from my Finite Element Analysis (FEA) course taught by Professor Harold Park at Boston University, in order of topics covered. Note that this is an ongoing course and the readme will be updated throughout the semester. The goal is to have notes & study guides added weekly.
 
 **Topics Include:**
 - [Introduction to the Finite Element Method](https://github.com/leahgaeta/FEA/raw/master/Finite%20Element%20Method%20-%20Introduction.pdf)
