@@ -15,3 +15,6 @@ This repo includes lecture notes and materials from my Finite Element Analysis (
 - [2D Finite Elements](https://github.com/leahgaeta/FEA/raw/master/2D%20Finite%20Elements.pdf)
 - [Other 2D Finite Elements](https://github.com/leahgaeta/FEA/raw/master/Other%202D%20Finite%20Elements.pdf)
 - [4-Node Isoparametric Quadrilateral Element](https://github.com/leahgaeta/FEA/raw/master/4-Node%20Isoparametric%20Quadrilateral%20Element.pdf)
+- [9-Node Quadratic Element](https://github.com/leahgaeta/FEA/raw/master/9-Node%20Quadratic%20Element.pdf)
+- [Parabolic Differential Equations](https://github.com/leahgaeta/FEA/raw/master/Parabolic%20Differential%20Equations.pdf)
+- [Nonlinear FEM & Nonlinear Continuum Mechanics](https://github.com/leahgaeta/FEA/raw/master/Nonlinear%20FEM%20%26%20Nonlinear%20Continuum%20Mechanics.pdf)
