@@ -22,4 +22,4 @@ This repo includes lecture notes and materials from my Finite Element Analysis (
 - [Nonlinear FEM Strong & Weak Forms](https://github.com/leahgaeta/FEA/raw/master/Nonlinear%20FEM%20Strong%20%26%20Weak%20Forms.pdf)
 - [Solution Procedures for Nonlinear FEM](https://github.com/leahgaeta/FEA/raw/master/Solution%20Procedures%20for%20Nonlinear%20FEM.pdf)
 - [Thermal Stresses](https://github.com/leahgaeta/FEA/raw/master/Thermal%20Stresses.pdf)
-- [Beam Equations & Beam Elements]()
+- [Beam Equations & Beam Elements](https://github.com/leahgaeta/FEA/raw/master/Beam%20Equations%20%26%20Beam%20Elements.pdf)
